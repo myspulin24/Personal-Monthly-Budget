@@ -41,14 +41,7 @@ uživatelských dat.
 
 ## 🖼️ Náhled aplikace
 
-| Světlý režim | Tmavý režim |
-|---------------|-------------|
-| ![Light mode](./screenshot_light_main.png) | ![Dark mode](./screenshot_dark_main.png) |
 
-### Další obrazovky
-| Nastavení | Kategorie |
-|------------|------------|
-| ![Settings](./screenshot_dark_settings.png) | ![Categories](./screenshot_dark_categories.png) |
 
 ------------------------------------------------------------------------
 
