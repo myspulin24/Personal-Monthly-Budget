@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="./icon.png" width="64" alt="logo" />
   <br>
   Personal Monthly Budget
