@@ -39,6 +39,19 @@ uživatelských dat.
 
 ------------------------------------------------------------------------
 
+## 🖼️ Náhled aplikace
+
+| Světlý režim | Tmavý režim |
+|---------------|-------------|
+| ![Light mode](./assets/screenshots/screenshot_light_main.png) | ![Dark mode](./assets/screenshots/screenshot_dark_main.png) |
+
+### Další obrazovky
+| Nastavení | Kategorie |
+|------------|------------|
+| ![Settings](./assets/screenshots/screenshot_dark_settings.png) | ![Categories](./assets/screenshots/screenshot_dark_categories.png) |
+
+------------------------------------------------------------------------
+
 ## 🚀 Spuštění projektu
 
 ``` bash
