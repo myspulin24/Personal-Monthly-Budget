@@ -1,9 +1,7 @@
 <h1 align="left">
-  <img src="./icon.png" width="64" alt="logo" />
-  <br>
+  <img src="./icon.png" width="42" style="vertical-align: middle; margin-right: 10px;" alt="logo" />
   Personal Monthly Budget
 </h1>
-
 
 > **Verze 3.8 (3. listopadu 2025)**\
 > Aplikace pro správu osobních financí, která umožňuje sledování příjmů,
